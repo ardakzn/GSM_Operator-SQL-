@@ -49,7 +49,7 @@
    </body>
 </html>
   
-  # 10thQuery
+  # LastQuery
   This query lists informations of subscriber who most signed in to web site on this mounth.This list contains tariff that subscriber uses which one.List of this query's photo is in the below.
 <html>
   <body>
